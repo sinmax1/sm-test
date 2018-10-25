@@ -1,3 +1,5 @@
 print hello;
 print all;
 print hi;
+print 2;
+hello 33;
